@@ -266,7 +266,7 @@ img{
 
 ***/
 
-/*.social-icon-one{
+.social-icon-one{
 	position:relative;
 }
 
@@ -290,7 +290,7 @@ img{
 
 .social-icon-one li a:hover{
 	color:#2dcc8e;
-}*/
+}
 
 /*** 
 
@@ -1235,7 +1235,7 @@ img{
 
 ***/
 
-/*.mission-section{
+.mission-section{
 	position:relative;
 	padding-top:120px;
 }
@@ -1247,7 +1247,7 @@ img{
 
 .mission-section .image-column .inner-column{
 	position:relative;
-	padding-right:40px;
+	/*padding-right:40px;*/
 }
 
 .mission-section .image-column .inner-column .image{
@@ -1266,12 +1266,12 @@ img{
 
 .mission-section .content-column .inner-column{
 	position:relative;
-	padding-right:50px;
+	/*padding-right:50px;*/
 }
 
 .mission-section .content-column .inner-column .sec-title{
 	margin-bottom:55px;
-}*/
+}
 
 /*** 
 
@@ -1281,7 +1281,7 @@ img{
 
 ***/
 
-/*.mission-info-tabs{
+.mission-info-tabs{
 	position:relative;
 }
 
@@ -1340,7 +1340,7 @@ img{
 	font-weight:300;
 	margin-bottom:18px;
 	font-family: 'Lato', sans-serif;
-}*/
+}
 
 /*fact counter*/
 
@@ -3113,7 +3113,7 @@ img{
 
 /*Gallery Widget*/
 
-.instagram-widget .images-outer{
+/*.instagram-widget .images-outer{
 	position:relative;
 	margin:0px -3px;
 }
@@ -3139,11 +3139,11 @@ img{
 
 .instagram-widget .image-box img:hover{
 	opacity:0.70;	
-}
+}*/
 
 /*News Block Four*/
 
-.news-block-four{
+/*.news-block-four{
 	position:relative;
 	margin-bottom:60px;
 }
@@ -3347,11 +3347,11 @@ img{
 	margin-top:60px;
 	margin-bottom:60px;
 	font-family: 'Playfair Display', serif;
-}
+}*/
 
 /*post share options*/
 
-.blog-single .inner-box .lower-box .post-share-options{
+/*.blog-single .inner-box .lower-box .post-share-options{
 	position:relative;
 }
 
@@ -3375,7 +3375,7 @@ img{
 	color:#b7b7b7;
 	font-size:16px;
 	margin-bottom:8px;
-}
+}*/
 
 /*** 
 
@@ -3385,7 +3385,7 @@ img{
 
  ***/
 
-.sidebar-page-container .comments-area{
+/*.sidebar-page-container .comments-area{
 	position:relative;
 	margin-top:70px;
 	margin-bottom:70px;
@@ -3503,7 +3503,7 @@ img{
 	border:1px  solid #fbca00;
 	text-transform:uppercase;
 	letter-spacing:1px;
-}
+}*/
 
 /*** 
 

@@ -10,6 +10,7 @@
 
 .navbar {
 	font-family: 'Lato', sans-serif;
+  box-shadow: 0 0 3px 0 rgba(0,0,0,0.22);
 }
 
 .navbar-brand {
@@ -52,6 +53,10 @@
 	color: #2dcc8e;
 }
 
+header {
+  margin-top: 100px;
+}
+
 .section-one {
   padding: 115px 0px 100px;
 }
@@ -71,7 +76,12 @@
 }
 
 
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 768px) {
+
+  header {
+    margin-top: 53px;
+  }
+
   .nav-link {
     text-align: center;
     margin-left: 0px;
