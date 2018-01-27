@@ -1016,7 +1016,7 @@ img{
     height: 100%;
 	color: #ffffff;
 	text-align: center;
-	background: rgba(45,204,142,0.60);
+	background: rgba(226,161,74,0.60);
     -webkit-transition: all 700ms ease;
     -ms-transition: all 700ms ease;
     -o-transition: all 700ms ease;
@@ -2044,7 +2044,7 @@ img{
 	opacity:0;
 	color:#ffffff;
 	text-align:center;
-	background:rgba(45,204,142,0.60);
+	background:rgba(226,161,74,0.60);
 	-webkit-transition:all 700ms ease;
 	-ms-transition:all 700ms ease;
 	-o-transition:all 700ms ease;
